@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "vite": "^7.3.0"
+  },
+  "name": "mesto-ad",
+  "version": "1.0.0",
+  "description": "Стартовый набор для выполнения проектной работы Место",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.27.1",
+    "fdir": "^6.5.0",
+    "nanoid": "^3.3.11",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.3",
+    "postcss": "^8.5.6",
+    "rollup": "^4.53.5",
+    "source-map-js": "^1.2.1",
+    "tinyglobby": "^0.2.15"
+  },
+"scripts": {
+  "dev": "vite",
+  "build": "vite build"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrtick/mesto-ad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Patrtick/mesto-ad/issues"
+  },
+  "homepage": "https://github.com/Patrtick/mesto-ad#readme"
+}
